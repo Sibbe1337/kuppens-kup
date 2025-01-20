@@ -1,0 +1,25 @@
+music-licensing-platform/
+├── components/
+│   ├── ui/
+│   ├── Search.tsx
+│   └── TrackCard.tsx
+├── lib/
+│   └── prisma.ts
+├── pages/
+│   ├── api/
+│   │   └── tracks.ts
+│   ├── _app.tsx
+│   └── index.tsx
+├── prisma/
+│   └── schema.prisma
+├── public/
+│   └── placeholder.svg
+├── styles/
+│   └── globals.css
+├── .env
+├── .gitignore
+├── next.config.js
+├── package.json
+├── README.md
+└── tsconfig.json
+
