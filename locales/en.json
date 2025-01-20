@@ -1,0 +1,16 @@
+{
+  "nav.home": "Home",
+  "nav.tracks": "Tracks",
+  "nav.playlists": "Playlists",
+  "nav.account": "Account",
+  "track.play": "Play",
+  "track.license": "License",
+  "track.share": "Share",
+  "playlist.play": "Play",
+  "playlist.share": "Share",
+  "license.basic": "Basic License",
+  "license.premium": "Premium License",
+  "license.enterprise": "Enterprise License",
+  "currency": "USD"
+}
+

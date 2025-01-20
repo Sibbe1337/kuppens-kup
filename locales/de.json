@@ -1,0 +1,16 @@
+{
+  "nav.home": "Startseite",
+  "nav.tracks": "Tracks",
+  "nav.playlists": "Wiedergabelisten",
+  "nav.account": "Konto",
+  "track.play": "Abspielen",
+  "track.license": "Lizenz",
+  "track.share": "Teilen",
+  "playlist.play": "Abspielen",
+  "playlist.share": "Teilen",
+  "license.basic": "Basis-Lizenz",
+  "license.premium": "Premium-Lizenz",
+  "license.enterprise": "Unternehmens-Lizenz",
+  "currency": "EUR"
+}
+

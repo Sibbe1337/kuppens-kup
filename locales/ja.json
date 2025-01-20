@@ -1,0 +1,16 @@
+{
+  "nav.home": "ホーム",
+  "nav.tracks": "トラック",
+  "nav.playlists": "プレイリスト",
+  "nav.account": "アカウント",
+  "track.play": "再生",
+  "track.license": "ライセンス",
+  "track.share": "共有",
+  "playlist.play": "再生",
+  "playlist.share": "共有",
+  "license.basic": "ベーシックライセンス",
+  "license.premium": "プレミアムライセンス",
+  "license.enterprise": "エンタープライズライセンス",
+  "currency": "JPY"
+}
+
